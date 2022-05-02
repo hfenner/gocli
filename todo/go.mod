@@ -1,3 +1,3 @@
-module pragprog/todo
+module todo
 
 go 1.18

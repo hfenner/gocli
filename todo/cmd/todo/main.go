@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"os"
-	"pragprog/todo"
 	"strings"
+	"todo"
 )
 
 const todoFileName = ".todo.txt"

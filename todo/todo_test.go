@@ -3,8 +3,8 @@ package todo_test
 import (
 	"io/ioutil"
 	"os"
-	"pragprog/todo"
 	"testing"
+	"todo"
 )
 
 func TestAdd(t *testing.T) {
